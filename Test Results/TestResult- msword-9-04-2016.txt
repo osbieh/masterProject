@@ -1,0 +1,244 @@
+
+
+ ------------Start BlowFish-->Enyc Compress Upload Test----------------
+------------Start BlowFish Encrypt File----------------
+File D:\google\contacts.pdf with Size 443980 byte before Blowfish encrypt
+File D:\google\results\contacts.pdf.enc with Size 443984 byte after Blowfish encrypt
+----END BlowFish ENCRYPT FILE with Time : 553 milliSecond ----
+
+------------Start Cloud Upload------------
+----END Upload FILE with Time : 16244 milliSecond----
+END Test Time : 16797 milliSecond
+ ------------End BlowFish-->Enyc Compress Upload Test----------------
+
+ 
+ >>>>>>>>>>>>>>>>>>>   Today 11/4/2016
+ 
+ contacts.pdf
+ 
+  ------------Start BlowFish-->Enyc Compress Upload Test----------------
+------------Start BlowFish Encrypt File----------------
+File D:\google\contacts.pdf with Size 443980 byte before Blowfish encrypt
+File D:\google\results\contacts.pdf.enc with Size 443984 byte after Blowfish encrypt
+----END BlowFish ENCRYPT FILE with Time : 649 milliSecond ----
+
+------------Start Cloud Upload------------
+----END Upload FILE with Time : 15688 milliSecond----
+END Test Time : 16337 milliSecond
+ ------------End BlowFish-->Enyc Compress Upload Test----------------
+
+ 
+>>>>>>>>>>
+
+ ------------Start BlowFish-->Enyc Compress Upload Test----------------
+------------Start BlowFish Encrypt File----------------
+File D:\google\contacts.pdf with Size 443980 byte before Blowfish encrypt
+File D:\google\results\contacts.pdf.enc with Size 443984 byte after Blowfish encrypt
+----END BlowFish ENCRYPT FILE with Time : 349 milliSecond ----
+
+------------Start Compress File------------
+File contacts.pdf.enc with Size 443984 byte before Compress
+File contacts.pdf.enc.zip with Size 295070 byte after Compress
+ END Compress FILE with Time : 54 milliSecond ----
+
+------------Start Cloud Upload------------
+----END Upload FILE with Time : 12198 milliSecond----
+END Test Time : 12602 milliSecond
+ ------------End BlowFish-->Enyc Compress Upload Test----------------
+
+ 
+ 
+ 
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+ 
+ Word
+ 
+  ------------Start BlowFish-->Enyc Compress Upload Test----------------
+------------Start BlowFish Encrypt File----------------
+File D:\google\RanksInJordan.doc with Size 37376 byte before Blowfish encrypt
+File D:\google\results\RanksInJordan.doc.enc with Size 37384 byte after Blowfish encrypt
+----END BlowFish ENCRYPT FILE with Time : 411 milliSecond ----
+
+------------Start Cloud Upload------------
+----END Upload FILE with Time : 3299 milliSecond----
+END Test Time : 3710 milliSecond
+ ------------End BlowFish-->Enyc Compress Upload Test----------------
+
+ 
+ >>>>>>>>>>>>>>>>>>>>  
+ with
+ 
+ 
+  ------------Start BlowFish-->Enyc Compress Upload Test----------------
+------------Start BlowFish Encrypt File----------------
+File D:\google\RanksInJordan.doc with Size 37376 byte before Blowfish encrypt
+File D:\google\results\RanksInJordan.doc.enc with Size 37384 byte after Blowfish encrypt
+----END BlowFish ENCRYPT FILE with Time : 317 milliSecond ----
+
+------------Start Compress File------------
+File RanksInJordan.doc.enc with Size 37384 byte before Compress
+File RanksInJordan.doc.enc.zip with Size 12315 byte after Compress
+ END Compress FILE with Time : 31 milliSecond ----
+
+------------Start Cloud Upload------------
+----END Upload FILE with Time : 2673 milliSecond----
+END Test Time : 3021 milliSecond
+ ------------End BlowFish-->Enyc Compress Upload Test----------------
+
+ 
+ 
+ 
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.
+ without
+ 
+ 
+  ------------Start BlowFish-->Enyc Compress Upload Test----------------
+------------Start BlowFish Encrypt File----------------
+File D:\google\Chassis_Attachments_Tips.pdf with Size 3897636 byte before Blowfish encrypt
+File D:\google\results\Chassis_Attachments_Tips.pdf.enc with Size 3897640 byte after Blowfish encrypt
+----END BlowFish ENCRYPT FILE with Time : 654 milliSecond ----
+
+------------Start Cloud Upload------------
+----END Upload FILE with Time : 83535 milliSecond----
+END Test Time : 84189 milliSecond
+ ------------End BlowFish-->Enyc Compress Upload Test----------------
+ 
+ 
+ 
+ >>>>>>>>>>>>>>>>>>>>>
+ 
+ with
+  ------------Start BlowFish-->Enyc Compress Upload Test----------------
+------------Start BlowFish Encrypt File----------------
+File D:\google\Chassis_Attachments_Tips.pdf with Size 3897636 byte before Blowfish encrypt
+File D:\google\results\Chassis_Attachments_Tips.pdf.enc with Size 3897640 byte after Blowfish encrypt
+----END BlowFish ENCRYPT FILE with Time : 501 milliSecond ----
+
+------------Start Compress File------------
+File Chassis_Attachments_Tips.pdf.enc with Size 3897640 byte before Compress
+File Chassis_Attachments_Tips.pdf.enc.zip with Size 3678228 byte after Compress
+ END Compress FILE with Time : 520 milliSecond ----
+
+------------Start Cloud Upload------------
+----END Upload FILE with Time : 79416 milliSecond----
+END Test Time : 80452 milliSecond
+ ------------End BlowFish-->Enyc Compress Upload Test----------------
+
+ 
+ 
+ 
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+ anather PDF file
+ 
+ with
+ 
+  ------------Start BlowFish-->Enyc Compress Upload Test----------------
+------------Start BlowFish Encrypt File----------------
+File D:\google\Fault-Tolerant Encryption for.pdf with Size 2068536 byte before Blowfish encrypt
+File D:\google\results\Fault-Tolerant Encryption for.pdf.enc with Size 2068544 byte after Blowfish encrypt
+----END BlowFish ENCRYPT FILE with Time : 479 milliSecond ----
+
+------------Start Compress File------------
+File Fault-Tolerant Encryption for.pdf.enc with Size 2068544 byte before Compress
+File Fault-Tolerant Encryption for.pdf.enc.zip with Size 1611981 byte after Compress
+ END Compress FILE with Time : 123 milliSecond ----
+
+------------Start Cloud Upload------------
+----END Upload FILE with Time : 39660 milliSecond----
+END Test Time : 40262 milliSecond
+ ------------End BlowFish-->Enyc Compress Upload Test----------------
+
+ 
+ >>>>>>>>>>>>>>>>>>>>>>>>>>
+ 
+ without
+ 
+  ------------Start BlowFish-->Enyc Compress Upload Test----------------
+------------Start BlowFish Encrypt File----------------
+File D:\google\Fault-Tolerant Encryption for.pdf with Size 2068536 byte before Blowfish encrypt
+File D:\google\results\Fault-Tolerant Encryption for.pdf.enc with Size 2068544 byte after Blowfish encrypt
+----END BlowFish ENCRYPT FILE with Time : 379 milliSecond ----
+
+------------Start Cloud Upload------------
+----END Upload FILE with Time : 48515 milliSecond----
+END Test Time : 48894 milliSecond
+ ------------End BlowFish-->Enyc Compress Upload Test----------------
+
+ 
+ 
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ anather PDF file
+ 
+  ------------Start BlowFish-->Enyc Compress Upload Test----------------
+------------Start BlowFish Encrypt File----------------
+File D:\google\softwareengineeringsommerville.pdf with Size 5397354 byte before Blowfish encrypt
+File D:\google\results\softwareengineeringsommerville.pdf.enc with Size 5397360 byte after Blowfish encrypt
+----END BlowFish ENCRYPT FILE with Time : 991 milliSecond ----
+
+------------Start Cloud Upload------------
+----END Upload FILE with Time : 128679 milliSecond----
+END Test Time : 129678 milliSecond
+ ------------End BlowFish-->Enyc Compress Upload Test----------------
+
+ 
+ 
+ with
+ 
+  ------------Start BlowFish-->Enyc Compress Upload Test----------------
+------------Start BlowFish Encrypt File----------------
+File D:\google\softwareengineeringsommerville.pdf with Size 5397354 byte before Blowfish encrypt
+File D:\google\results\softwareengineeringsommerville.pdf.enc with Size 5397360 byte after Blowfish encrypt
+----END BlowFish ENCRYPT FILE with Time : 438 milliSecond ----
+
+------------Start Compress File------------
+File softwareengineeringsommerville.pdf.enc with Size 5397360 byte before Compress
+File softwareengineeringsommerville.pdf.enc.zip with Size 5227042 byte after Compress
+ END Compress FILE with Time : 316 milliSecond ----
+
+------------Start Cloud Upload------------
+----END Upload FILE with Time : 121232 milliSecond----
+END Test Time : 121986 milliSecond
+ ------------End BlowFish-->Enyc Compress Upload Test----------------
+
+ 
+ 
+ 
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ 
+ with
+ Image
+  ------------Start BlowFish-->Enyc Compress Upload Test----------------
+------------Start BlowFish Encrypt File----------------
+File D:\google\images112.jpg with Size 7188 byte before Blowfish encrypt
+File D:\google\results\images112.jpg.enc with Size 7192 byte after Blowfish encrypt
+----END BlowFish ENCRYPT FILE with Time : 306 milliSecond ----
+
+------------Start Compress File------------
+File images112.jpg.enc with Size 7192 byte before Compress
+File images112.jpg.enc.zip with Size 7345 byte after Compress
+ END Compress FILE with Time : 15 milliSecond ----
+
+------------Start Cloud Upload------------
+----END Upload FILE with Time : 2660 milliSecond----
+END Test Time : 2982 milliSecond
+ ------------End BlowFish-->Enyc Compress Upload Test----------------
+
+ 
+ without
+ 
+  ------------Start BlowFish-->Enyc Compress Upload Test----------------
+------------Start BlowFish Encrypt File----------------
+File D:\google\images112.jpg with Size 7188 byte before Blowfish encrypt
+File D:\google\results\images112.jpg.enc with Size 7192 byte after Blowfish encrypt
+----END BlowFish ENCRYPT FILE with Time : 363 milliSecond ----
+
+------------Start Cloud Upload------------
+----END Upload FILE with Time : 2444 milliSecond----
+END Test Time : 2807 milliSecond
+ ------------End BlowFish-->Enyc Compress Upload Test----------------
+
+ 

@@ -1,0 +1,218 @@
+using word file 37kb
+------------Start DES-->Enyc Compress Upload Test----------------
+------------Start DES Encrypt File----------------
+File D:\google\RanksInJordan.doc with Size 37376 byte before encrypt
+File D:\google\results\RanksInJordan.doc.enc with Size 37384 byte after encrypt
+----END DES ENCRYPT FILE with Time : 401 milliSecond ----
+
+------------Start Compress File------------
+File RanksInJordan.doc.enc with Size 37384 byte before Compress
+File RanksInJordan.doc.enc.zip with Size 12317 byte after Compress
+ END Compress FILE with Time : 37 milliSecond ----
+
+------------Start Cloud Upload------------
+----END Upload FILE with Time : 3051 milliSecond----
+END Test Time : 3489 milliSecond
+ ------------End DES-->Enyc Compress Upload Test----------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ ------------Start Upload Test----------------
+
+------------Start Cloud Upload------------
+----END Upload FILE with Time : 3722 milliSecond----
+END Test Time : 3723 milliSecond
+ ------------End  Upload Test----------------
+ 
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ 
+ ------------Start DES-->Enyc Compress Upload Test----------------
+------------Start DES Encrypt File----------------
+File D:\google\RanksInJordan.doc with Size 37376 byte before encrypt
+File D:\google\results\RanksInJordan.doc.enc with Size 37384 byte after encrypt
+----END DES ENCRYPT FILE with Time : 357 milliSecond ----
+
+------------Start Cloud Upload------------
+----END Upload FILE with Time : 3256 milliSecond----
+END Test Time : 3614 milliSecond
+ ------------End DES-->Enyc Compress Upload Test----------------
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ ------------Start DES Encrypt File----------------
+File D:\google\RanksInJordan.doc with Size 37376 byte before encrypt
+File D:\google\results\RanksInJordan.doc.enc with Size 37384 byte after encrypt
+----END DES ENCRYPT FILE with Time : 270 milliSecond ----
+
+------------Start Compress File------------
+File RanksInJordan.doc.enc with Size 37384 byte before Compress
+File RanksInJordan.doc.enc.zip with Size 12317 byte after Compress
+ END Compress FILE with Time : 15 milliSecond ----
+
+------------Start Cloud Upload------------
+----END Upload FILE with Time : 2616 milliSecond----
+END Test Time : 2901 milliSecond
+ ------------End Compress Upload Test----------------
+ 
+ 
+------------Start Encrypt AES:128Compress Upload ------------
+
+------------Start AES 128 Encrypt File------------
+----END AES Encrypt : 455 milliSecond----
+
+------------Start Compress File------------
+File RanksInJordan.doc.aes with Size 37533 byte before Compress
+File RanksInJordan.doc.aes.zip with Size 15151 byte after Compress
+ END Compress FILE with Time : 31 milliSecond ----
+
+------------Start Cloud Upload------------
+----END Upload FILE with Time : 2970 milliSecond----
+END  AES :128 Test Time : 3456 milliSecond
+------------End Encrypt AES:128Compress Upload ------------
+
+------------Start Encrypt AES:128Compress Upload ------------
+
+------------Start AES 128 Encrypt File------------
+----END AES Encrypt : 386 milliSecond----
+
+------------Start Compress File------------
+File RanksInJordan.doc.aes with Size 37533 byte before Compress
+File RanksInJordan.doc.aes.zip with Size 15145 byte after Compress
+ END Compress FILE with Time : 15 milliSecond ----
+
+------------Start Cloud Upload------------
+----END Upload FILE with Time : 3297 milliSecond----
+END  AES :128 Test Time : 3698 milliSecond
+------------End Encrypt AES:128Compress Upload ------------
+
+the same file 
+
+------------Start Encrypt AES:128Compress Upload ------------
+
+------------Start AES 128 Encrypt File------------
+----END AES Encrypt : 354 milliSecond----
+
+------------Start Compress File------------
+File RanksInJordan.doc.aes with Size 37533 byte before Compress
+File RanksInJordan.doc.aes.zip with Size 15149 byte after Compress
+ END Compress FILE with Time : 16 milliSecond ----
+
+------------Start Cloud Upload------------
+----END Upload FILE with Time : 2487 milliSecond----
+END  AES :128 Test Time : 2857 milliSecond
+------------End Encrypt AES:128Compress Upload ------------
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+The PDF File
+
+------------Start Encrypt AES:128Compress Upload ------------
+
+------------Start AES 128 Encrypt File------------
+----END AES Encrypt : 632 milliSecond----
+
+------------Start Compress File------------
+File Fault-Tolerant Encryption for.pdf.aes with Size 2068685 byte before Compress
+File Fault-Tolerant Encryption for.pdf.aes.zip with Size 1718865 byte after Compress
+ END Compress FILE with Time : 161 milliSecond ----
+
+------------Start Cloud Upload------------
+----END Upload FILE with Time : 49199 milliSecond----
+END  AES :128 Test Time : 49993 milliSecond
+------------End Encrypt AES:128Compress Upload ------------
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ ------------Start DES-->Enyc Compress Upload Test----------------
+------------Start DES Encrypt File----------------
+File D:\google\Fault-Tolerant Encryption for.pdf with Size 2068536 byte before encrypt
+File D:\google\results\Fault-Tolerant Encryption for.pdf.enc with Size 2068544 byte after encrypt
+----END DES ENCRYPT FILE with Time : 547 milliSecond ----
+
+------------Start Compress File------------
+File Fault-Tolerant Encryption for.pdf.enc with Size 2068544 byte before Compress
+File Fault-Tolerant Encryption for.pdf.enc.zip with Size 1612021 byte after Compress
+ END Compress FILE with Time : 134 milliSecond ----
+
+------------Start Cloud Upload------------
+----END Upload FILE with Time : 42554 milliSecond----
+END Test Time : 43246 milliSecond
+ ------------End DES-->Enyc Compress Upload Test----------------
+>>>>>>>>>>>>>>>>>>>>
+thusday 
+29/3/2016
+
+ ------------Start DES-->Enyc Compress Upload Test----------------
+------------Start DES Encrypt File----------------
+File D:\google\Fault-Tolerant Encryption for.pdf with Size 2068536 byte before encrypt
+File D:\google\results\Fault-Tolerant Encryption for.pdf.enc with Size 2068544 byte after encrypt
+----END DES ENCRYPT FILE with Time : 411 milliSecond ----
+
+------------Start Compress File------------
+File Fault-Tolerant Encryption for.pdf.enc with Size 2068544 byte before Compress
+File Fault-Tolerant Encryption for.pdf.enc.zip with Size 1612021 byte after Compress
+ END Compress FILE with Time : 121 milliSecond ----
+
+------------Start Cloud Upload------------
+----END Upload FILE with Time : 39070 milliSecond----
+END Test Time : 39602 milliSecond
+ ------------End DES-->Enyc Compress Upload Test----------------
+
+
+>>>>>>>>>>>>>>>>>>>>
+Onlly Ecnrypt
+ ------------Start DES-->Enyc  Upload Test----------------
+
+------------Start DES Encrypt File----------------
+File D:\google\Fault-Tolerant Encryption for.pdf with Size 2068536 byte before encrypt
+File D:\google\results\Fault-Tolerant Encryption for.pdf.enc with Size 2068544 byte after encrypt
+----END DES ENCRYPT FILE with Time : 379 milliSecond ----
+
+------------Start Cloud Upload------------
+----END Upload FILE with Time : 48661 milliSecond----
+END Test Time : 49040 milliSecond
+ ------------End DES-->Enyc Compress Upload Test----------------
+
+>>>>>>>>>>>>>>>>>>>> 
+Using AES in the same sercomestances 
+------------Start Encrypt AES:128Compress Upload ------------
+
+------------Start AES 128 Encrypt File------------
+----END AES Encrypt : 463 milliSecond----
+
+------------Start Compress File------------
+File Fault-Tolerant Encryption for.pdf.aes with Size 2068685 byte before Compress
+File Fault-Tolerant Encryption for.pdf.aes.zip with Size 1718828 byte after Compress
+ END Compress FILE with Time : 124 milliSecond ----
+
+------------Start Cloud Upload------------
+----END Upload FILE with Time : 44536 milliSecond----
+END  AES :128 Test Time : 45125 milliSecond
+------------End Encrypt AES:128Compress Upload ------------
+
+>>>>>>>>>>>>>>>>>> without compress
+
+------------Start Encrypt AES :128 Upload------------
+
+------------Start AES 128 Encrypt File------------
+----END AES Encrypt : 393 milliSecond----
+
+------------Start Cloud Upload------------
+----END Upload FILE with Time : 48775 milliSecond----
+END  AES :128 Test Time : 49168 milliSecond
+------------End Encrypt AES :128 Upload------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ ------------Start Upload Test----------------
+
+------------Start Cloud Upload------------
+----END Upload FILE with Time : 48215 milliSecond----
+END Test Time : 48216 milliSecond
+ ------------End  Upload Test----------------
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+
+ 
+
